@@ -2,3 +2,11 @@
 node_modules
 out
 *.vsix
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/melos-code.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
